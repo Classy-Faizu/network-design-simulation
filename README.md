@@ -26,9 +26,12 @@ This project demonstrates the design and simulation of a computer network using 
 - IP addressing and subnetting
 - Network troubleshooting
 
-## Documentation
+## Project Files
 
-The complete project documentation is included in this repository.
+This repository contains:
+
+- **Network_Hardware_Budget.pdf** – Hardware budget and equipment cost estimation for the network design.
+- **Network_Design.pkt** – Cisco Packet Tracer simulation file containing the configured network topology.
 
 ## Author
 
